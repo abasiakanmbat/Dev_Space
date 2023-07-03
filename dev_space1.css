@@ -1,0 +1,90 @@
+* {
+    padding: 0%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 5%;
+}
+
+.nav-4items {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 20px;
+    margin-right: ;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-top: 3px;
+
+}
+
+#nav-but {
+    color: white;
+    background-color: #01bd9d;
+    width: 120px;
+    height: 35px;
+    border-radius: 50px;
+    border: unset;
+}
+
+.header {
+    background-image: linear-gradient(134deg, #0c0091 0%, #00a87e 100%);
+    height: 90vh;
+}
+
+.header2 {
+    display: grid;
+    grid-template-columns:60% auto;
+}
+
+.header-text {
+    margin: 5% 8%;
+
+}
+.header-text>h1{
+    font-size:60px;
+    color: #00ffd4;
+}
+.header-text>p{
+    color: rgba(255, 255, 255, 0.66);
+    margin-bottom: 30px;
+}
+.header-text>button{
+    height: 50px;
+    width: 250px;
+    background: transparent;
+    border:1px solid rgba(255, 255, 255, 0.661);
+    color: rgba(255, 255, 255, 0.66);
+}
+
+.header-img>img {
+    margin: 10% auto;
+}
+.sec2{
+    background-color: #f4f4f4;
+    border: 2px solid;
+    height: 30vh;
+}
+.clients-title{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.clients{
+   display: flex; 
+    justify-content: center;
+    gap: 80px;
+}
+
+
+/* Blessing Offa's css codes/ */
+
+
+
+/* Other collaborators */
