@@ -200,23 +200,27 @@ a {
     height: 70%;
     text-align: center;
 }
-.sec6>h1{
+
+.sec6>h1 {
     font-size: 65px;
 }
+
 .sec6>button {
     margin-top: 4vh;
     padding: 20px 50px;
-    background-color:transparent;
+    background-color: transparent;
     border: 1px solid rgba(182, 182, 182, 0.755);
 }
-footer{
+
+footer {
     background-color: #0c0091;
     color: #ffffffa4;
     padding-top: 8vh;
     padding-bottom: 10vh;
 
 }
-footer>section{
+
+footer>section {
     display: grid;
     grid-template-columns: auto auto auto auto;
     gap: 16vw;
@@ -225,10 +229,12 @@ footer>section{
     width: fit-content;
     margin: auto;
 }
-footer>section>div>h3{
+
+footer>section>div>h3 {
     color: #fff;
     margin-bottom: 2vh;
 }
+
 /* Blessing Offa's css codes/ */
 
 
